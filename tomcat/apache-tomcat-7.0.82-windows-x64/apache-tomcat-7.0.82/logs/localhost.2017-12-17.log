@@ -1,0 +1,30 @@
+12 17, 2017 6:15:52 ŒßŒã org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+12 17, 2017 6:15:52 ŒßŒã org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+12 17, 2017 6:15:52 ŒßŒã org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@454fa888')
+12 17, 2017 6:30:51 ŒßŒã org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+12 17, 2017 6:30:51 ŒßŒã org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+12 17, 2017 6:31:00 ŒßŒã org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+12 17, 2017 6:31:00 ŒßŒã org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+12 17, 2017 6:31:00 ŒßŒã org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@25019ea8')
+12 17, 2017 7:10:41 ŒßŒã org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+12 17, 2017 7:10:41 ŒßŒã org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+12 17, 2017 7:11:07 ŒßŒã org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+12 17, 2017 7:11:07 ŒßŒã org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+12 17, 2017 7:11:07 ŒßŒã org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@3b0ebc72')
+12 17, 2017 7:18:35 ŒßŒã org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+12 17, 2017 7:18:35 ŒßŒã org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
